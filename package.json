@@ -1,0 +1,23 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpatsute/number-formatter.git"
+  },
+  "author": "“Mahesh <“mahesh.patsute@ibm.com”>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpatsute/number-formatter/issues"
+  },
+  "homepage": "https://github.com/mpatsute/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
